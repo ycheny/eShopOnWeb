@@ -9,7 +9,7 @@ env:
   LOCATION: canadacentral
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 9b0b94be-2f35-4b13-9b4d-9629b7e96b3b
-  WEBAPP-NAME: az400-webapp-EPL
+  WEBAPP-NAME: az400-webapp-EPL1
 
 
 jobs:
